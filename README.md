@@ -19,3 +19,5 @@ e salva i risultati in nuovi file CSV.
 - Load: esportazione dei risultati in file CSV
 
 ## Esecuzione
+Per eseguire la pipeline ETL:
+python etl_pipeline.py
